@@ -13,6 +13,6 @@ Full-stack developer focused on MERN stack applications.<br>Currently exploring 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jauhar-Eamam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jauhar-Eamam&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
